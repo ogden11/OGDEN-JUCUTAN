@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Puerto Prinsesa",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/7.jpg",
-    "price": 1,028,
+    "price": 1028,
     "priceCurrency": "km",
     "lat": 9.967216,
     "lng": 118.785510 
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Kawasan Falls Cebu",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/8.jpg",
-    "price": 1,157 ,
+    "price": 1157 ,
     "priceCurrency": "km",
     "lat": 9.802355,
     "lng": 123.374153
