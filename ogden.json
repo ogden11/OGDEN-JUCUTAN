@@ -1,34 +1,34 @@
 [
   {
     "id": 145,
-    "name": "Bawanta",
+    "name": "Parian este",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.554621,
-    "lng": 120.342109
+    "lat": 16.516755,
+    "lng": 120.323370
   },
   {
     "id": 148,
-    "name": "Boracay",
+    "name": "Batanes",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 11.967375,
-    "lng": 121.924815
+    "lat": 20.448507,
+    "lng": 121.970813
   },
   {
     "id": 201,
-    "name": "Puerto Princesa Subterranean River National Park",
+    "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 10.192559,
-    "lng": 118.926583
+    "lat": 11.209709,
+    "lng": 119.462254
   },
   {
     "id": 205,
-    "name": "Chocolate Hills",
+    "name": "Siargao",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
     "price": 115,
     "priceCurrency": "PESO",
@@ -37,74 +37,20 @@
   },
   {
     "id": 210,
-    "name": "Siargao",
+    "name": "Cebu",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 9.848188,
-    "lng": 126.045844
+    "lat": 10.607936,
+    "lng": 123.885775
   },
   {
     "id": 211,
-    "name": "Banaue Rice Terraces",
+    "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.923954,
-    "lng": 121.055640
-  },
-  {
-    "id": 212,
-    "name": "Mactan",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 10.299046,
-    "lng": 123.963853
-  },
-  {
-    "id": 213,
-    "name": "Panglao Island",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 9.587356,
-    "lng": 123.807630
-  },
-  {
-    "id": 214,
-    "name": "Coron Island",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/coron.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 10.299046,
-    "lng": 123.963853
-  },
-  {
-    "id": 215,
-    "name": "Taal Volcano",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Taal-Volcano.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 10.299046,
-    "lng": 123.963853
-  },
-  {
-    "id": 216,
-    "name": "Subic Bay",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/subic.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 10.299046,
-    "lng": 123.963853
-  },
-  {
-    "id": 217,
-    "name": "Hundred Islands National Park",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
-    "price": 90,
-    "priceCurrency": "PESO",
-    "lat": 10.299046,
-    "lng": 123.963853
+    "lat": 11.967375,
+    "lng": 121.924815
   }
 ]
