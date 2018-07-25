@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/5.jpg",
-    "price": 703.5,
+    "price": 703,
     "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815 
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Coron Palawan",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/6.jpg",
-    "price": 704.4,
+    "price": 704,
     "priceCurrency": "km",
     "lat": 12.049926,
     "lng": 120.178175
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Puerto Prinsesa",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/7.jpg",
-    "price": 1,028.9,
+    "price": 1,028,
     "priceCurrency": "km",
     "lat": 9.967216,
     "lng": 118.785510 
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Kawasan Falls Cebu",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/8.jpg",
-    "price": 1,157.8 ,
+    "price": 1,157 ,
     "priceCurrency": "km",
     "lat": 9.802355,
     "lng": 123.374153
