@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Parian este",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/0.jpg",
-    "price": 90,
+    "price": 0,
     "priceCurrency": "km",
     "lat": 16.516755,
     "lng": 120.323370
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Batanes",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/1.jpg",
-    "price": 200,
+    "price": 469,
     "priceCurrency": "km",
     "lat": 20.448507,
     "lng": 121.970813
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/2.jpg",
-    "price": 150,
+    "price": 877.9,
     "priceCurrency": "km",
     "lat": 11.209709,
     "lng": 119.462254
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Siargao",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/3.jpg",
-    "price": 115,
+    "price": 963,
     "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Cebu",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/4.jpg",
-    "price": 135,
+    "price": 230,
     "priceCurrency": "km",
     "lat": 10.607936,
     "lng": 123.885775
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/5.jpg",
-    "price": 90,
+    "price": 703.5,
     "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815 
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Coron Palawan",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/6.jpg",
-    "price": 100,
+    "price": 704.4,
     "priceCurrency": "km",
     "lat": 12.049926,
     "lng": 120.178175
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Puerto Prinsesa",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/7.jpg",
-    "price": 5000,
+    "price": 1,028.9,
     "priceCurrency": "km",
     "lat": 9.967216,
     "lng": 118.785510 
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Kawasan Falls Cebu",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/8.jpg",
-    "price": 999,
+    "price": 1,157.8 ,
     "priceCurrency": "km",
     "lat": 9.802355,
     "lng": 123.374153
@@ -84,7 +84,7 @@
     "id": 215,
     "name": "Zambales",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/9.jpg",
-    "price": 888,
+    "price": 206.4,
     "priceCurrency": "km",
     "lat": 15.508177,
     "lng": 119.969781 
@@ -93,7 +93,7 @@
     "id": 216,
     "name": "Batangas",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/10.jpg",
-    "price": 666,
+    "price": 343.4,
     "priceCurrency": "km",
     "lat": 13.945034,
     "lng": 121.131201
@@ -102,7 +102,7 @@
     "id": 217,
     "name": "Tagaytay",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/11.jpg",
-    "price": 10,
+    "price": 330.2,
     "priceCurrency": "km",
     "lat": 14.115286,
     "lng": 120.962116
@@ -111,7 +111,7 @@
     "id": 218,
     "name": "Mayon Volcano",
     "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/12.jpg",
-    "price": 333,
+    "price": 753.1,
     "priceCurrency": "km",
     "lat": 13.254832,
     "lng": 123.686112
