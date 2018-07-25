@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Parian este",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/0.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.516755,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/1.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 20.448507,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "El Nido Palawan",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/2.jpg",
     "price": 150,
     "priceCurrency": "PESO",
     "lat": 11.209709,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Siargao",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/3.jpg",
     "price": 115,
     "priceCurrency": "PESO",
     "lat": 9.829708,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Cebu",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/4.jpg",
     "price": 135,
     "priceCurrency": "PESO",
     "lat": 10.607936,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/OGDEN-JUCUTAN/master/5.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 11.967375,
